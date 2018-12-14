@@ -1,0 +1,15 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1544684080-abc4549c04c4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1866&q=80);
+    background-size: cover;
+}
+
+h2 {
+    text-align: center;
+    border: 5px solid purple;
+    cursor: pointer;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
